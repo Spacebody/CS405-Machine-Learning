@@ -11,10 +11,7 @@ The source code of CS405 Machine Learning in SUSTech
 
 
 
-### Group Member
 
-- Yilin Zheng
-- Qihao Zhang
 
 
 
