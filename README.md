@@ -13,6 +13,7 @@ The source code of CS405 Machine Learning in SUSTech
 - **Lab #4 CNN, Linear regression**
 - **Lab #5 Mnist, CNN(TensorFlow, referenced)**
 - **Lab #6 Bayes Classifier**
+- **Lab #7 GMM, EM method**
 
 
 
